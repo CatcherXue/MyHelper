@@ -9,3 +9,9 @@ D:\Projects\MyHelper\MyHelper\obj\Release\ResolveAssemblyReference.cache
 D:\Projects\MyHelper\MyHelper\obj\Release\MyHelper4Web.dll
 D:\Projects\MyHelper\MyHelper\obj\Release\MyHelper4Web.pdb
 D:\Projects\MyHelper\MyHelper\bin\Release\MyHelper4Web.XML
+D:\GitHub\MyHelper\MyHelper\bin\Release\MyHelper4Web.XML
+D:\GitHub\MyHelper\MyHelper\bin\Release\MyHelper4Web.dll
+D:\GitHub\MyHelper\MyHelper\bin\Release\MyHelper4Web.pdb
+D:\GitHub\MyHelper\MyHelper\obj\Release\ResolveAssemblyReference.cache
+D:\GitHub\MyHelper\MyHelper\obj\Release\MyHelper4Web.dll
+D:\GitHub\MyHelper\MyHelper\obj\Release\MyHelper4Web.pdb

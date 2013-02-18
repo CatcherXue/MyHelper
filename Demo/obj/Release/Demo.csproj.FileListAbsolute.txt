@@ -13,3 +13,11 @@ D:\Projects\MyHelper\Demo\obj\Release\ResolveAssemblyReference.cache
 D:\Projects\MyHelper\Demo\obj\Release\Demo.dll
 D:\Projects\MyHelper\Demo\obj\Release\Demo.pdb
 D:\Projects\MyHelper\Demo\bin\MyHelper4Web.xml
+D:\GitHub\MyHelper\Demo\bin\Demo.dll
+D:\GitHub\MyHelper\Demo\bin\Demo.pdb
+D:\GitHub\MyHelper\Demo\bin\MyHelper4Web.dll
+D:\GitHub\MyHelper\Demo\bin\MyHelper4Web.pdb
+D:\GitHub\MyHelper\Demo\bin\MyHelper4Web.xml
+D:\GitHub\MyHelper\Demo\obj\Release\ResolveAssemblyReference.cache
+D:\GitHub\MyHelper\Demo\obj\Release\Demo.dll
+D:\GitHub\MyHelper\Demo\obj\Release\Demo.pdb

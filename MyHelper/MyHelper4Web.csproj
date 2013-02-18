@@ -47,7 +47,9 @@
   <ItemGroup>
     <Compile Include="MyAppConfigHelper.cs" />
     <Compile Include="MyBase64Helper.cs" />
+    <Compile Include="MyCmdHelper.cs" />
     <Compile Include="MyConvertHelper.cs" />
+    <Compile Include="MyDataSQLHelper.cs" />
     <Compile Include="MyDataReaderHelper.cs" />
     <Compile Include="MyDataTableHelper.cs" />
     <Compile Include="MyDateTimeHelper.cs" />
