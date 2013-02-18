@@ -23,5 +23,12 @@ C# Common class helper 4 web
 
 Initial Version by Yang, Dennis on 23-Jan-2013
 [cnBlog][1]
-
 [1]: http://www.cnblogs.com/flashbar/
+
+新增加：
+* 调用CMD类.MyCmdHelper.cs
+* 连接数据库时执行的常用命令.MyDataSQLHelper.cs
+
+By CatcherXue,on 18-Feb-2013
+[cnBlog][2]
+[2]:http://www.cnblogs.com/catcherX
